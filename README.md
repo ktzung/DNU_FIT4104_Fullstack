@@ -9,7 +9,7 @@
 
 ## 📖 Giới thiệu
 
-Đây là tài liệu học tập chính thức cho học phần **FIT4104 - Dự án Thiết kế, Lập trình Full-stack** tại Đại học Đà Nẵng.
+Đây là tài liệu học tập chính thức cho học phần **FIT4104 - Dự án Thiết kế, Lập trình Full-stack** tại Trường Đại học Đại Nam.
 Tài liệu được thiết kế theo hướng **Project-based Learning** (Học qua dự án), hướng dẫn sinh viên xây dựng một hệ thống hoàn chỉnh từ con số 0.
 
 ### 🎯 Mục tiêu
