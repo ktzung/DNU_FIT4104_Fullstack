@@ -26,7 +26,7 @@ Chúng ta sẽ dùng **Vite** (công cụ build siêu tốc) thay vì Vue CLI c�
 Mở Terminal (VS Code) tại thư mục muốn lưu dự án:
 
 ```powershell
-npm create vue@latest
+npm create vue@latest dnu-shop-client
 ```
 
 Điền các thông tin:
